@@ -4,7 +4,7 @@
     box-sizing:border-box;
     font-family:Arial, Helvetica, sans-serif;
 }
-
+/*styles the entire page*/
 body{
 
     display:flex;
@@ -20,7 +20,7 @@ body{
 }
 
 /* CARD */
-
+/*styles the card where the login details are seen and keyed in*/
 .card{
 
     position:relative;
